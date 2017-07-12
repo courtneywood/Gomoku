@@ -1,5 +1,5 @@
 import java.awt.Color;
-import java.util.*;
+import java.util.*; 
 
 class Player161214999 extends GomokuPlayer {
   private ArrayList<Move> alreadyExists;
